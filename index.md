@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title>Vikash Mittal, A Theoretical Physicist</title>
 	</head>
 	<body>
 		<nav>
@@ -9,7 +9,7 @@
         		<li><a href="/">Home</a></li>
 	        	<li><a href="/about">About</a></li>
         		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
+        		<li><a href="/blog">Contact</a></li>
     		</ul>
 		</nav>
 		<div class="container">
